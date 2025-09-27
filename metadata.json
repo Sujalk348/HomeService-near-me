@@ -1,0 +1,5 @@
+{
+  "name": "HomeServe On-Demand Services",
+  "description": "A modern, responsive web application for booking various home services on-demand, inspired by the HomeServe UI. Users can browse categories, view customer reviews, and find verified professionals for services like cleaning, plumbing, and electrical repairs.",
+  "requestFramePermissions": []
+}
